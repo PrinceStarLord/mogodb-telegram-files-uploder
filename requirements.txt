@@ -1,0 +1,4 @@
+pyrotgfork[fast]
+motor 
+umongo
+python-dotenv
